@@ -4,7 +4,7 @@
  
  1. Fork this Resource Library.[ Check the top right corner of this page ]
  
- 2. Add the links to resources you find to the appropriate sections on the **resource.md** file 
+ 2. Add your links to the resources on **resource.md** file. 
  
     For adding links, md file syntax is **[title]<span>(url)</span>** 
     

@@ -18,7 +18,7 @@ Okay Check this Out
 
 Oh yeah some cool frameworks right? You might not have seen most of them! But we maynot have seen what you've seen either.
 
-*So, Are you ready to contribute? Check out contribute.md file to learn how to contribute*
+*So, Are you ready?* 
+## Check out contribute.md file to learn how to contribute
 
-All the Best!!
 

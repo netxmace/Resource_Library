@@ -1,5 +1,5 @@
 # Resource_Library
-This Hacktoberfest, let's contribute together.
+#### This Hacktoberfest, *Let's contribute together* :raised_hands:
 
 ### Alright! But What's the plan?
 

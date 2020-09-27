@@ -18,15 +18,7 @@ Okay Check this Out
 
 Oh yeah some cool frameworks right? You might not have seen most of them! But we maynot have seen what you've seen either.
 
-So,
+*So, Are you ready to contribute? Check out contribute.md file to learn how to contribute*
 
- 1. Fork this Resource Library.[ Check the top right corner of this page ]
- 
- 2. Add the links to resources you find to the appropriate sections on the resource.md file
- 
- 3. Send your PR.
-  
- 4. Leave the rest to us.
-
-
+All the Best!!
 

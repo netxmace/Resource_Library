@@ -13,3 +13,4 @@
 - [Creative Navbar designs](https://github.com/treezjoz/Creative-Navbar.git)
 - [A complete beginner's guide to django](https://simpleisbetterthancomplex.com/archive/#series)
 - [Bulma templates](https://bulmatemplates.github.io/bulma-templates/)
+- [Learn Vue.js](https://www.codecademy.com/learn/learn-vue-js)

@@ -10,5 +10,6 @@
 - [Web Development CSS Flexbox Crash Course](https://youtu.be/JJSoEo8JSnc)
 - [Web Development Bootstrap Crash Course](https://youtu.be/5GcQtLDGXy8)
 - [Web Development JavaScript Crash Course](https://youtu.be/hdI2bqOjy3c)
-
-
+- [Creative Navbar designs](https://github.com/treezjoz/Creative-Navbar.git)
+- [A complete beginner's guide to django](https://simpleisbetterthancomplex.com/archive/#series)
+- [Bulma templates](https://bulmatemplates.github.io/bulma-templates/)

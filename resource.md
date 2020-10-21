@@ -21,6 +21,9 @@
 - [Web Development CSS Flexbox Crash Course](https://youtu.be/JJSoEo8JSnc)
 - [Web Development Bootstrap Crash Course](https://youtu.be/5GcQtLDGXy8)
 - [Web Development JavaScript Crash Course](https://youtu.be/hdI2bqOjy3c)
+- [Web Development PERN STACK](https://youtu.be/ldYcgPKEZC8)
+- [C++ course for beginners](https://youtu.be/vLnPwxZdW4Y)
+
 
 ### JavaScript
 
@@ -34,5 +37,6 @@
 ### Code Snippets
 
 - [30 Seconds of Code](https://www.30secondsofcode.org/css/p/1)
+
 
 

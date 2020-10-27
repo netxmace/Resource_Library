@@ -21,6 +21,11 @@
 - [Web Development CSS Flexbox Crash Course](https://youtu.be/JJSoEo8JSnc)
 - [Web Development Bootstrap Crash Course](https://youtu.be/5GcQtLDGXy8)
 - [Web Development JavaScript Crash Course](https://youtu.be/hdI2bqOjy3c)
+- [Creative Navbar Designs](https://github.com/treezjoz/Creative-Navbar.git)
+- [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/archive/#series)
+- [Bulma templates](https://bulmatemplates.github.io/bulma-templates/)
+- [Learn Vue.js](https://www.codecademy.com/learn/learn-vue-js)
+
 - [Web Development PERN STACK](https://youtu.be/ldYcgPKEZC8)
 - [C++ course for beginners](https://youtu.be/vLnPwxZdW4Y)
 
@@ -37,6 +42,7 @@
 ### Code Snippets
 
 - [30 Seconds of Code](https://www.30secondsofcode.org/css/p/1)
+
 
 
 
